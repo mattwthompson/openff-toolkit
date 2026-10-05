@@ -35,8 +35,8 @@ dependencies = [
   "rdkit",
   "setuptools-scm",        # possibly not needed at runtime
   "xmltodict",
-  # "openff-nagl",
-  # "openff-nagl-models",
+  "openff-nagl",
+  "openff-nagl-models",
 ]
 urls = { Homepage = "https://github.com/openforcefield/openff-toolkit" }
 
